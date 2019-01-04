@@ -1,0 +1,13 @@
+main {
+	background-color: rgba(188, 143, 143, 0.6)}
+
+div#content {
+	margin: 15px;
+	width: 670px;}
+div#content h2 {
+	background-color: MistyRose;
+	padding: 20px;
+	margin-top: 0px;}
+div#content q {
+	font-style: italic;
+	font-size: 18px;}
